@@ -1,3 +1,6 @@
+inputEl.addEventListener("focus", () => {
+    inputEl.scrollIntoView({ block: "center" });
+    });
 const sentenceEl = document.getElementById("sentence");
 const inputEl = document.getElementById("input");
 const timeEl = document.getElementById("time");

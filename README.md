@@ -1,6 +1,6 @@
 # Type-Master - Improve Your Typing Speed ⌨️
 
-**Live Demo:** https://raunakparashar.github.io/Type-Master/
+**Live Demo:** https://elite-typer.web.app/
 
 An interactive typing test to check speed, accuracy and improve WPM. Works 100% offline.
 
